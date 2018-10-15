@@ -1,0 +1,15 @@
+
+    .boxed {
+        padding: 2rem;
+        text-align: center;
+        display: boxed;
+        position: absolute;
+        top: 20%;
+        left: 50%;
+        
+        border: 1px solid black;
+      
+      width: 300px;
+      background-color: aliceblue;
+    
+    }
