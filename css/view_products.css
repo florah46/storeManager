@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    font-size: 20px;
+}
+
+.topnav{
+    position: relative;
+    margin: 2rem;
+    background-color: azure;
+    overflow: hidden;
+    width: 100%;
+    
+    
+    }
+    .topnav ul li{
+        text-align: center;
+        font-size: 20px;
+        position: relative;
+        padding: 12px 14px;
+        text-decoration: none;
+        float: right;
+        overflow: auto;
+        background-color: azure;
+        
+    }
+.boxed{
+    margin: 2rem;
+    border: 2px solid azure;
+    background-color: darkgray;
+}    
+.table, th,td {
+    border: 1px solid black;
+    width: 15%;
+    height: 100px;
+    text-align: justify;
+    padding: 2rem;
+    background-color: darkgray;
+    
+}
