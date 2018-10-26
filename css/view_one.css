@@ -1,0 +1,15 @@
+body{
+    font-size: 30px;
+    text-align: center;
+}
+
+.table,th,td{
+    border: 1px solid black;
+    position: relative;
+    height: 70px;
+    width: 50px;
+    background-color: azure;
+}
+
+
+
