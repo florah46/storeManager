@@ -29,11 +29,6 @@ body{
     background-color: darkgray;
 }    
 .table, th,td {
-    border: 1px solid black;
-    width: 15%;
-    height: 100px;
-    text-align: justify;
-    padding: 2rem;
-    background-color: darkgray;
+    
     
 }
