@@ -1,6 +1,6 @@
 # storeManager
-##This application gives authority to users to access the store manager depending on their rank.
-#The store attendant can view products available, add add sale order records,view products individually, add a new product.
+This application gives authority to users to access the store manager depending on their rank.
+The store attendant can view products available, add add sale order records,view products individually, add a new product.
 
 
 |Page | Description|
