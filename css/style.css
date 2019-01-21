@@ -42,31 +42,39 @@ a{
 .heading{
     text-align: center;
 }
-#name{
+#ProductName{
     width: 300px;
     height:  25px
 }
-#productid{
+#ProductId{
     width: 300px;
     height:  25px
 }
-#quantity{
+#Quantity{
     width: 300px;
     height:  25px
 }
-#brand{
+#Brand{
     width: 300px;
     height:  25px
 }
-#price{
+#Price{
     width: 300px;
     height:  25px
 }
-#password{
+#password1{
     width: 300px;
     height:  25px  
 }
-#username{
+#username1{
+    width: 300px;
+    height:  25px    
+}
+#password2{
+    width: 300px;
+    height:  25px  
+}
+#username2{
     width: 300px;
     height:  25px    
 }
@@ -82,23 +90,23 @@ a{
     width: 300px;
     height:  15px 
 }
-#cre_password{
+#password{
     width: 300px;
     height:  15px 
 }
-#username1{
+#confirmPassword{
     width: 300px;
     height:  15px 
 }
-#number{
+#username{
     width: 300px;
     height:  15px 
 }
-#passwordcon{
+#contact{
     width: 300px;
     height:  15px 
 }
-.nav{
+.SButton{
     height: 40px;
     width: 100px
 }
